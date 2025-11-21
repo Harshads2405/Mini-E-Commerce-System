@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\hshin\IdeaProjects\MiniEcommerce\src\main\webapp">
+  <Resources cacheMaxSize="10240">
+    <PostResources base="C:/Users/hshin/Downloads/commons-io-2.16.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/commons-io-2.16.1.jar"/>
+    <PostResources base="C:/Users/hshin/Downloads/commons-fileupload-1.5.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/commons-fileupload-1.5.jar"/>
+    <PostResources base="C:/Users/hshin/Downloads/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.4.0.jar"/>
+  </Resources>
+</Context>
